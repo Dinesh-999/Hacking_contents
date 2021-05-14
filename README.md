@@ -161,7 +161,7 @@
 > - https://www.pentesteracademy.com/topics
 > - https://blueteamlabs.online/home - blto(cyber blue)
 > - https://elearnsecurity.com/product/ejpt-certification/ -  elearnsecurity
-> - https://my.ine.com/area/ff0cb823-5bec-4b3a-b096-415dcf6c0adb - ine.com 
+> - https://my.ine.com  - ine.com (cybersecurity courses) 
 > - https://academy.tcm-sec.com/ - tcm-sec 
 > - https://tryhackme.com/  - tryhackme
 > - https://www.hackthebox.eu/ - hackthebox
@@ -276,7 +276,7 @@
 
 
 
-#COMMANDS  
+# COMMANDS  
 >[find, curl, sed, grep, scp, wfuzz, docker]
 
 
