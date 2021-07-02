@@ -1,5 +1,3 @@
-# Hacking_contents
-
 # Privilege Escalation Scripts
 
 > - [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS]() - (linpeas.sh)
@@ -18,7 +16,7 @@
 > - https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/linux/linux-examples.rst  -  (privilege escalation cheat sheet)
 > - https://book.hacktricks.xyz/linux-unix/privilege-escalation  - (Linux Privilege Escalation)
 > - https://pentestlab.blog/category/privilege-escalation/ - (find command)(privilege escalation)
-> - https://book.hacktricks.xyz/linux-unix/privilege-escalation - (privilege-escalation all)
+> - https://book.hacktricks.xyz/linux-unix/privilege-escalation#scheduled-cron-jobs  (scheduled-cron-jobs) 
 > - https://www.hackingarticles.in/lxd-privilege-escalation/  - (lxd-privilege-escalation)
 
 
@@ -62,7 +60,7 @@
 
 # Local-File-Inclusion(LFI) Cheat Sheet
 
-> https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md  - (lfi-cheat-sheet)
+> - https://github.com/qazbnm456/awesome-security-trivia/blob/master/Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md  - (lfi-cheat-sheet)
 > - https://highon.coffee/blog/lfi-cheat-sheet/  - (lfi-cheat-sheet)(phpfilter)
 > - https://github.com/payloadbox/rfi-lfi-payload-list - (rfi-lfi-payload-list)
 > - https://book.hacktricks.xyz/pentesting-web/file-inclusion#lfi-2-rce  - (lfi - local file inclusion)
@@ -150,7 +148,8 @@
 > - https://github.com/saleemrashid/sudo-cve-2019-18634 - (cve-2019-18634)
 > - https://www.exploit-db.com/exploits/1518  -  (MySQL 4.x/5.0 (Linux))
 > - https://www.exploit-db.com/exploits/37292  - (Linux Kernel 3.13.0 < 3.19)
-
+> - https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/
+> - https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/
 
 # Learn Hacking Paths and Sources
 
@@ -161,7 +160,7 @@
 > - https://www.pentesteracademy.com/topics
 > - https://blueteamlabs.online/home - blto(cyber blue)
 > - https://elearnsecurity.com/product/ejpt-certification/ -  elearnsecurity
-> - https://my.ine.com  - ine.com (cybersecurity courses) 
+> - https://my.ine.com/area/ff0cb823-5bec-4b3a-b096-415dcf6c0adb - ine.com 
 > - https://academy.tcm-sec.com/ - tcm-sec 
 > - https://tryhackme.com/  - tryhackme
 > - https://www.hackthebox.eu/ - hackthebox
@@ -175,6 +174,22 @@
 # Penetration Testing
 
 > - https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ - (penetration-testing-tools-cheat-sheet and method)
+> - https://github.com/GohEeEn/CTF-and-Computer-Security-Tools -  (All tools in one link)
+> - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters  (bug bounty resources)
+
+
+# Blogs:
+
+> - https://highon.coffee/
+> - https://book.hacktricks.xyz/
+> - https://linuxize.com/
+> - https://neverendingsecurity.wordpress.com/
+> - https://muirlandoracle.co.uk/       (hacking articles, all write ups)
+> - https://www.hackingarticles.in/     (hacking articles, all write ups)
+> - https://pwn.by/noraj/
+> - https://writeup.raw.pm/
+> - https://blog.raw.pm/
+> - https://apjone.uk/
 
 
 # Write Up's
@@ -183,7 +198,6 @@
 > - https://github.com/mzet-/ctf-writeups -  (some writeups)
 > - https://muirlandoracle.co.uk/   - (write ups)
 > - https://www.hackingarticles.in/ - (hacking articles, usage)
-> - https://github.com/mzet-/ctf-writeups - (ctf writeups)
 > - https://github.com/josh-a-miller/ctf  - (Tryhackme and hackthebox writeups)
 > - https://github.com/sagishahar/lpeworkshop - (walkthrough pdf)
 > - https://github.com/mzfr/vulnhub-writeups  - (vulnhub writeups)
@@ -192,15 +206,17 @@
 > - https://github.com/testerting/hacker101-ctf/tree/master/micro-cms_v2/flag2 - (hacker101 ctf)
 > - https://blog.fruxlabs.com/hacker101-ctf-solutions/  - (hacker101 ctf)
 > - https://github.com/sebastiendamaye/TryHackMe  - (tryhackme writeups)
-> - https://github.com/GohEeEn/CTF-and-Computer-Security-Tools -  (All tools in one link)
-> - https://github.com/JohnHammond/oscp-notetaking  - (oscp notetaking)
 > - https://muirlandoracle.co.uk/     -  (hacking articles, all write ups)
 > - https://www.hackingarticles.in/   -  (hacking articles, all write ups)
 > - https://noxtal.com/writeups/2020/07/11/tryhackme-koth-lion/ - (writeup for tryhackme-koth-lion)
-> - https://github.com/mzet-/ctf-writeups
 > - https://hackingresources.com/category/ctf-writeups/vulnhub-writeups/ -  (vulnhub-writeups)
 > - https://www.aldeid.com/wiki/Category:CTF -  (aldeid all ctf tryhackme, hackthebox, vulnhub)
-
+> - https://gitlab.com/ctf-and-walkthrough-writeups/tryhackme
+> - https://github.com/noraj/tryhackme-writeups
+> - https://infosecwriteups.com/tagged/vulnhub
+> - https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups
+> - https://www.vulnhub.com/resources/
+> - https://zime64.gitlab.io/writeups/
 
 
 # WE CAN USE THIS WITHOUT DEPLOYING VM [TRYHACKME]:
@@ -222,6 +238,11 @@
 > - https://github.com/carlospolop/hacktricks - (hacking tricks)
 > - https://github.com/carlospolop/pwntools-tutorial - (pwntools-tutorial [go through])
 > - https://github.com/payloadbox/xxe-injection-payload-list - (xxe-injection-payload-list, xml)
+> - https://github.com/carlospolop/hacktricks - (hacking trick/technique)
+> - https://wiki.skullsecurity.org/Passwords (list of all passwords)
+> - https://www.openvas.org/
+> - https://www.rapid7.com/products/nexpose/
+> - https://www.tenable.com/products/nessus
 
 
 # Applications
@@ -266,17 +287,17 @@
 > - https://github.com/whoisflynn/OSCP-Exam-Report-Template - (Exam Report Template)
 > - https://github.com/noraj/OSCP-Exam-Report-Template-Markdown - (OSCP-Exam-Report-Template-Markdown)
 > - https://www.notion.so/OSCP-Exam-Notes-EXAM_DATE-cb9d15436e4849339aaa35979d582735 -  (OSCP Exam Notes)
-
+> - https://github.com/JohnHammond/oscp-notetaking  - (oscp note taking)
 
 # Usage's
 
 > - https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom - (How-to-use-msfvenom)
 > - https://www.aircrack-ng.org/doku.php?id=airmon-ng  -  (airmong-ng usage)
 > - https://dashboard.ngrok.com/get-started/setup  - (ngrok download and setup)
+> - http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/ - ( gpg cheatsheet)
 
 
-
-# COMMANDS  
+#COMMANDS  
 >[find, curl, sed, grep, scp, wfuzz, docker]
 
 
@@ -321,14 +342,5 @@
     scp index.html alex@10.10.101.79:/home/alex  (to put files into other machine)[replace * {in place of index.html} to upload all files in that folder]
     
     scp alex@10.10.101.79:/home/alex .  (to download files from other machine)[. means to this floder]
-
-
-
-
-
-
-
-
-
 
 
